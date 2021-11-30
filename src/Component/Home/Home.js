@@ -19,7 +19,7 @@ const Home = () => {
         },
         {
             title: 'Couple Power Room',
-            description: 'Superior Double Rooms are perfectly equipped for traveling couples or friends.',
+            description: 'Superior Double Rooms are perfectly equipped for traveling couples or friends.This is the best travelling platform.',
             imgUrl: 'https://cdn.jumeirah.com/-/mediadh/dh/hospitality/jumeirah/offers/offer-images/burj-al-arab-royal-suite-staircase-5-hero.jpg',
             bed: 1,
             capacity: 2,
@@ -29,7 +29,7 @@ const Home = () => {
         },
         {
             title: 'Family Capacity Room',
-            description: ' Have lots of in-room facilities and are designed in open-concept living area.',
+            description: ' Have lots of in-room facilities and are designed in open-concept living area to stay and rest.',
             imgUrl: 'https://cdn.jumeirah.com/-/mediadh/dh/hospitality/jumeirah/hotels/dubai/burj-al-arab-jumeirah/room/presidential-two-bedroom-suite/burj-al-arab-presidential-suite-guest-bedroom_6-4_landscape/burj-al-arab-presidential-suite-guest-bedroom_16-9_landscape.jpg?w=2080',
             bed: 2,
             capacity: 4,
